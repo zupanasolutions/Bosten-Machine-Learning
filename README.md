@@ -12,7 +12,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 
 Run
-In a terminal or command window, navigate to the top-level project directory boston_housing/ (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory Boston_Machine_Learning/ (that contains this README) and run one of the following commands:
 
 jupyter notebook Bosten_Machine_Learning.ipynb
 
