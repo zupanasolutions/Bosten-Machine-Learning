@@ -1,4 +1,4 @@
-# Bosten-Machine-Learning
+# Boston-Machine-Learning
 This project requires the latest version of python as well as the following libraries
 1. Numpy
 2. Pandas
